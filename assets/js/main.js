@@ -101,8 +101,8 @@
 
 					$('#two').poptrox({
 						caption: function($a) { return $a.next('h3').text(); },
-						overlay_unsplashColor: '#2c2c2c',
-						overlay_unsplashOpacity: 0.85,
+						overlayColor: '#2c2c2c',
+						overlayOpacity: 0.85,
 						popupCloserText: '',
 						popupLoaderText: '',
 						selector: '.work-item a.image',
