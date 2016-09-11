@@ -1,3 +1,3 @@
-# jaydonlau.github.io
+# jaydonl.me 
 
-Personal website
+My personal website, with a short bio, my resume and past personal projects.
